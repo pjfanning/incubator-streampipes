@@ -66,7 +66,7 @@
         <owasp.check.skip>true</owasp.check.skip>
         <maven.deploy.skip>false</maven.deploy.skip>
 
-        <amqp-client.version>4.1.0</amqp-client.version>
+        <amqp-client.version>4.8.0</amqp-client.version>
         <animal-sniffer-annotations.version>1.17</animal-sniffer-annotations.version>
         <boofcv.version>0.33</boofcv.version>
         <bcprov.version>1.66</bcprov.version>
