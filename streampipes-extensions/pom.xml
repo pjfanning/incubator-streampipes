@@ -74,7 +74,7 @@
         <classindex.version>3.9</classindex.version>
         <checker-qual.version>2.5.2</checker-qual.version>
         <commons-math3.version>3.6.1</commons-math3.version>
-        <commons-compress.version>1.18</commons-compress.version>
+        <commons-compress.version>1.21</commons-compress.version>
         <commons-text.version>1.4</commons-text.version>
         <commons-pool2.version>2.9.0</commons-pool2.version>
         <ditto-client.version>1.0.0</ditto-client.version>
