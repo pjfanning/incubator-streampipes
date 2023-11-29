@@ -95,7 +95,7 @@
 	<lightcouch.version>0.2.0</lightcouch.version>
 	<log4j.version>2.20.0</log4j.version>
 	<lz4.version>1.8.0</lz4.version>
-	<logback.version>1.4.5</logback.version>
+	<logback.version>1.4.12</logback.version>
 	<maven-invoker.version>2.2</maven-invoker.version>
 	<maven-plugin-annotations.version>3.7.1</maven-plugin-annotations.version>
 	<mqtt-client.version>1.12</mqtt-client.version>
